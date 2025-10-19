@@ -1,2 +1,2 @@
 # AMP-in-pnQRPA-for-beta-decay
-the projected results about half lives of the Fe isotopes in the beta decay
+The results display the effects of symmetry restoration on nuclear single-beta decay within the axially  deformed proton–neutron quasiparticle random phase approximation . The proton–neutron finite-amplitude method is employed to compute transition amplitudes, and the angular-momentum projection both after variation and after the QRPA is performed to restore rotational symmetry.  
